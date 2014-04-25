@@ -1,1 +1,1 @@
-Treballant amb ordre Git v0.1
+Treballant amb ordre Git v0.2
